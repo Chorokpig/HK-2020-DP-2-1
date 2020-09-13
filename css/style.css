@@ -1,0 +1,32 @@
+*{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+.full img{
+    width: 100%;
+    height: auto;
+}
+
+.fit{
+    width: 54%;
+    height: auto;
+}
+
+.fit img{
+    width: 100%;
+    height: auto;
+}
+
+.fit .grid-left img{
+    width: 49%;
+    margin-right: 2%;
+    height: auto;
+    float: left;
+}
+
+.fit .grid-right img{
+    width: 49%;
+    height: auto;
+    float: left;
+}
